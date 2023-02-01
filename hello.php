@@ -1,3 +1,3 @@
 <?php
-echo 'Hello World and Applie Infosol!';
+echo 'Hello World and Applie Infosol and all!';
 ?>
